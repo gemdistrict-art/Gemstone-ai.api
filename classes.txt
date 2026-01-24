@@ -1,1 +1,10 @@
-
+Ruby
+Sapphire
+Emerald
+Amethyst
+Diamond
+Topaz
+Quartz
+Peridot
+Garnet
+Opal
