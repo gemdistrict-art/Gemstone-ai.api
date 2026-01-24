@@ -1,4 +1,36 @@
-# Byte-compiled / optimized / DLL files
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+.env.local
+
+# Logs and databases
+logs/
+*.log
+
+# Model files (pokud chceš ignorovat – ale my je chceme!)
+# sample_model.h5
+# gemstone_model.h5
+
+# Large files (pokud používáš Git LFS, neignoruj je)
+# *.h5
+# *.pb# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
 *$py.class
